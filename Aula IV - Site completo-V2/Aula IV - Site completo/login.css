@@ -1,0 +1,23 @@
+body{
+    background-color: lavender;
+    background-image: url("IMG/Gentinha do Grau.png"); /*IMG de fundo*/
+}
+
+/*Centralizar o texto*/
+.cadastro{
+    text-align: center; 
+}
+
+/*Tirar o tracejado e mudar a cor*/
+a{
+    text-decoration: none;
+    color: black;
+    border-style: ridge;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

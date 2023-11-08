@@ -1,0 +1,23 @@
+body{
+    background-color: LawnGreen;
+}
+
+/*Colocar o cursor no button*/
+button{
+    cursor: pointer;
+}
+
+.salada{
+padding: 5px;
+}
+
+/*Escolher o tamanho da IMG*/
+.card-img-top{
+width: 300px;
+}
+
+/*Escolher o tamanho da borda*/
+.card-body{
+    border: inset;
+    width: 300px;
+}

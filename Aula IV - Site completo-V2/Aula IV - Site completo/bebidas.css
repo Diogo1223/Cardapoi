@@ -1,0 +1,19 @@
+
+button{
+    cursor: pointer;
+}
+
+.card-img-top{
+    width: 300px;
+    background-color: Turquoise;
+}
+
+.card-body{
+    border: inset;
+    width: 300px;
+}
+
+.bebidas{
+    background-color: aquamarine;
+}
+    

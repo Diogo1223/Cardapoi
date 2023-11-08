@@ -1,0 +1,16 @@
+body{
+    background-color: LightBlue;
+}
+
+button{
+    cursor: pointer;
+}
+
+.card-img-top{
+    width: 300px;
+}
+
+.card-body{
+    border: inset;
+    width: 300px;
+}
